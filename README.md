@@ -1,7 +1,3 @@
-# Yugoslav Language – README
-
-## Introduction
-
 The Yugoslav language is a contemporary southern Slavic language designed as a cultural and linguistic bridge between the peoples of the Yugoslav region.  
 It draws from all Yugoslav languages — including Serbo-Croatian, Slovenian, and Macedonian — as well as Old Church Slavonic.  
 Its foundation lies in Interslavic, adapted with a distinct Yugoslav character, vocabulary, and expressive style.
